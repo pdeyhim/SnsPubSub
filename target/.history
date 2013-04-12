@@ -1,0 +1,8 @@
+eclipse
+eclips
+eclipse
+run
+inspect compile:main-class(for run)
+inspect compile:main-class
+inspect run:main-class
+run

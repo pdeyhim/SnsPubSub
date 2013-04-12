@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.amazonaws" : [], "com.amazonaws.services" : [], "com.amazonaws.services.snspubsub" : [{"class" : "com\/amazonaws\/services\/snspubsub\/SnsSend.html", "name" : "com.amazonaws.services.snspubsub.SnsSend"}]};
